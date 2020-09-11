@@ -1,6 +1,5 @@
 # maven ignore
 target/
-*.jar
 !.mvn/wrapper/*
 *.war
 *.zip
@@ -44,3 +43,5 @@ compiler/.gradle/*
 
 # protobuf
 dubbo-serialization/dubbo-serialization-protobuf/build/*
+
+
