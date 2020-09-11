@@ -80,6 +80,6 @@ public class Test {
 classpath指定的是jre，所以，把jar包copy到$JAVA_HOME/jre/lib/endorsed下才能成功也就说的通了。
 
 
-最后，说一下，**这个技术在java9后已经移除了**
+最后，说一下，**这个技术在java9后已经移除了**，因此，这种机制只在java9zhi之前有效
 
 参考连接：https://docs.oracle.com/javase/8/docs/technotes/guides/standards/
